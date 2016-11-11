@@ -11,7 +11,7 @@ The following is a representation of a Trie containing the words : round, roll, 
 ![TRIE](https://raw.githubusercontent.com/robyerts/article---tries/master/TRIE.png)
 The **root** node keeps everything connected; 
 **value** is a *Character* while 
-**nrOfInstances** is an *Int* representing the number of times that node is being used. **root** doesn't contain a *Character* therefore, is not actually part of any sequence. It will all make sense after a few examples :)
+**nrOfInstances** is an *Int* representing the number of times that node is being used. **root** doesn't contain a *Character*, therefore, it is not actually part of any sequence. It will all make sense after a few examples :)
 
 #### Insert
 (...to be continued...)
